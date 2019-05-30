@@ -1,4 +1,4 @@
-# finance_report_stock
+## finance_report_stock
 # 네이버 금융에서 주식과 리포트 분석하기
 
 ## 1. crawler_finance_stock_report.py
