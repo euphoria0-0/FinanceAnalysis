@@ -9,7 +9,6 @@
 #### 2. 네이버 금융 리포트 크롤링
 1. 크롬 드라이버를 이용한 동적 크롤링으로 pdf 다운 링크 받기
 
-~~친구에게 저작권이...~~
 ## 2. pdf_downloader.py
 ### pdf 다운로드
 2. pdf 다운 링크로 pdf를 로컬에 다운로드
@@ -31,7 +30,7 @@
 ## 4. text_visualization.py
 참고: http://bokeh.pydata.org/en/latest/
 
-bokeh의 다양한 시각화 라이브러리?를 이용하여
+bokeh의 다양한 시각화 라이브러리를 이용하여
 증권사 별 리포트의 긍부정 단어 비율을 보았음.
 
 ## 5. data_modeling.py
